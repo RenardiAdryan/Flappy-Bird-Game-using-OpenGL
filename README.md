@@ -5,3 +5,7 @@ This program running on linux environment
 2. Run this program using "./flappybird" command
 
 <img src="Images/Test Environment1.png">
+
+Connect console to the Computer and calibrate
+
+<img src="Images/Test Remote Gyro.jpg">
