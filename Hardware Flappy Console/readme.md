@@ -1,4 +1,4 @@
-## This is a glimps for the hardware
+## This is a glimps of the hardware
 This consist of 
   1. GY-25 Gyro
   2. STM32f103
